@@ -1,0 +1,30 @@
+module.exports = [
+  "The secret of getting ahead is getting started. — Mark Twain",
+  "It does not matter how slowly you go as long as you do not stop. — Confucius",
+  "Success is not final, failure is not fatal: it is the courage to continue that counts. — Churchill",
+  "In the middle of every difficulty lies opportunity. — Albert Einstein",
+  "The only way to do great work is to love what you do. — Steve Jobs",
+  "Believe you can and you're halfway there. — Theodore Roosevelt",
+  "Life is what happens when you're busy making other plans. — John Lennon",
+  "The future belongs to those who believe in the beauty of their dreams. — Eleanor Roosevelt",
+  "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
+  "You miss 100% of the shots you don't take. — Wayne Gretzky",
+  "Whether you think you can or you think you can't, you're right. — Henry Ford",
+  "Two roads diverged in a wood, and I took the one less traveled by. — Robert Frost",
+  "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. — Emerson",
+  "In three words I can sum up everything I've learned about life: it goes on. — Robert Frost",
+  "Spread love everywhere you go. Let no one ever come to you without leaving happier. — Mother Teresa",
+];
+
+module.exports.naija = [
+  "Hustle hard, rest later. But abeg rest sha — your body no be machine. 💪",
+  "Person wey no know where he come from no go reach where he dey go. — Yoruba proverb 🌍",
+  "Na who wake up early go see the morning breeze. Sleep well but wake up and hustle! 🌅",
+  "The fact say e hard no mean say e impossible. E don happen before, e go happen again. 🔥",
+  "Sapa no be your portion! Grind till your account dey sing. 💰",
+  "Your village people no go win. Stand strong, the breakthrough dey come. 🙏",
+  "Everywhere good — e no mean say we no get problem. E mean say we no gree for the problem. 💪",
+  "Na small small rain dey fill the river. Be consistent, results go show. 🌧️",
+  "Nigeria no spoil. E just need better people — and you be one of them. 🇳🇬",
+  "No let anyone dim your shine. Even the sun no care wetin dey hate am. ☀️",
+];

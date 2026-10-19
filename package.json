@@ -1,0 +1,29 @@
+{
+  "name": "matarello-2.0",
+  "version": "2.0.0",
+  "description": "A fully custom WhatsApp bot built using Node.js and Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys"
+  ],
+  "author": "matarello98",
+  "license": "MIT",
+  "dependencies": {
+    "@replit/connectors-sdk": "^0.4.3",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.15.0",
+    "chalk": "^5.6.2",
+    "jimp": "^1.6.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.5"
+  }
+}

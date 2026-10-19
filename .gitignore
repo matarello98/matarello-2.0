@@ -1,0 +1,8 @@
+node_modules/
+auth/
+*.log
+.env
+attached_assets/
+src/data/db/
+generated-artifacts/
+*.zip

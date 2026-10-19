@@ -1,0 +1,30 @@
+module.exports = [
+  "Honey never spoils. Archaeologists found 3000-year-old honey in Egyptian tombs that was still edible!",
+  "A group of flamingos is called a 'flamboyance'. Very fitting! 🦩",
+  "Octopuses have three hearts and blue blood. They're basically aliens 🐙",
+  "Bananas are berries, but strawberries are not. Botanically speaking 🍌",
+  "The shortest war in history lasted only 38-45 minutes — between Britain and Zanzibar in 1896",
+  "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid",
+  "Cats can't taste sweet things. Their taste buds don't have sweet receptors",
+  "A day on Venus is longer than a year on Venus 🪐",
+  "The human brain uses about 20% of the body's total energy",
+  "Sharks are older than trees — they've been around for over 400 million years 🦈",
+  "The average person walks about 100,000 miles in their lifetime",
+  "Water can boil and freeze at the same time — it's called the triple point",
+  "There are more possible iterations of a game of chess than atoms in the known universe ♟️",
+  "A group of crows is called a 'murder'. Nature loves drama 🐦‍⬛",
+  "Butterflies taste with their feet 🦋",
+];
+
+module.exports.naija = [
+  "Nigeria has the largest economy in Africa by GDP 🇳🇬",
+  "Nollywood is the second-largest film industry in the world by output — ahead of Hollywood 🎬",
+  "Lagos is one of the fastest-growing cities in the world 🌆",
+  "Nigeria has over 500 distinct languages spoken across the country 🗣️",
+  "The name 'Nigeria' was coined by journalist Flora Shaw in 1897, from the River Niger 📜",
+  "Nigeria is often called the 'Giant of Africa' because of its size and influence 🦁",
+  "Afrobeats music from Nigeria has taken over the entire world — Burna Boy, Wizkid, Davido 🎵",
+  "Nigeria has the highest number of Yoruba speakers worldwide — over 50 million 🌍",
+  "Jollof rice controversy is a Nigerian export — we take that debate everywhere 🍛",
+  "Nigeria produces some of the world's finest mathematicians and engineers 🔬",
+];
