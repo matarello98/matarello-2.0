@@ -1,3 +1,5 @@
+require("./src/utils/signalLogRedaction")();
+
 const {
   default: makeWASocket,
   DisconnectReason,
